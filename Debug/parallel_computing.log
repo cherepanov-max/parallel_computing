@@ -1,5 +1,3 @@
-﻿  pch.cpp
-c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
-  parallel_computing.cpp
+﻿  parallel_computing.cpp
 c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
   parallel_computing.vcxproj -> C:\Users\Maxim Cherepanov\source\repos\parallel_computing\Debug\parallel_computing.exe
